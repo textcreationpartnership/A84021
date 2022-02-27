@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English mountebank casting the sickly vvater of the state. Opening the severall causes of her desperate disease, and prescribing certaine soveraigne antidotes for the speedy cure of all her maladies. Dedicated to all true hearts that heartily desire Great Brittaines perfect cure.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84021</idno>
+            <idno type="STC">Wing E3106</idno>
+            <idno type="STC">Thomason E384_6</idno>
+            <idno type="STC">ESTC R201445</idno>
+            <idno type="EEBO-CITATION">99861954</idno>
+            <idno type="PROQUEST">99861954</idno>
+            <idno type="VID">114100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84021)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114100)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E384[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English mountebank casting the sickly vvater of the state. Opening the severall causes of her desperate disease, and prescribing certaine soveraigne antidotes for the speedy cure of all her maladies. Dedicated to all true hearts that heartily desire Great Brittaines perfect cure.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Partly in verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Aprill: 15th London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114100:1" rendition="simple:additions"/>
+            <p>THE English Mountebank CASTING The Sickly Water OF THE STATE: Opening the ſeverall cauſes of her deſ<g ref="char:EOLhyphen"/>perate Diſeaſe, and preſcribing certaine Soveraigne Antidotes for the ſpeedy Cure of all her Maladies. Dedicated to all true hearts that heartily deſire Great Brittaines perfect Cure.</p>
+            <p>Printed in the Yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="poem">
+               <pb facs="tcp:114100:2"/>
+               <head>The Engliſh Mountebanke, &amp;c.</head>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">R</seg>Omes</hi> poiſon <hi>Spaines</hi> complots, the <hi>French</hi> deſignes,</l>
+               <l>My skill foreſees diſcovers undermines,</l>
+               <l>And <hi>Scotlands</hi> too; that for <hi>our guodes</hi> or Gold;</l>
+               <l>Kings, States, Lawes, Religion's bought and ſold.</l>
+               <l>Why Saint-like <hi>Sacriledge</hi> doth impropriate,</l>
+               <l>And calme Oppreſſion ſwallowes Church and State?</l>
+               <l>Why cloſe <hi>Hypocriſie</hi> bends his Courtly knee,</l>
+               <l>Though (wanting all faith) would have all faiths free.</l>
+               <l>I cure blind Eyes, Eares deafe, Tongues dumb, and tell</l>
+               <l>What duller Spirits in the flack Nerves dwell:</l>
+               <l>And by my Learning, and deep skill can ſhow</l>
+               <l>How humerous and irregular vices flow,</l>
+               <l>And why the liver boyles with luſt ſtill bloud;</l>
+               <l>What makes the Stomack brooke no meate that's good;</l>
+               <l>Why the looſe Palſie makes the Hands to tremble,</l>
+               <l>Whether for love they ſpake, or they diſſemble,</l>
+               <l>Why that the gouty Knees ſo ſtifly bend,</l>
+               <l>And Feet are ſwift <hi>for bloud,</hi> but no good end.</l>
+               <l>I cure all theſe and more, and ſeldome faile</l>
+               <l>To draw all Humours through the guts or taile.</l>
+            </div>
+            <div type="part">
+               <head>My Antidote.</head>
+               <p>TAke in the declining of the <hi>Sun,</hi> of the precious Herbe called <hi>Chriſtian Obedience,</hi> a good quantity: Of <hi>Uniformity in Reli<g ref="char:EOLhyphen"/>gion,</hi> as much: Of Allegiance to <hi>Sovereignity;</hi> with a little of an herb called <hi>Supremacy,</hi> picke them <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then put them into the Cha<g ref="char:EOLhyphen"/>fer of a <hi>good Conſcience,</hi> cleane ſcour'd from the Ruſt of <hi>Ambition, Rebellion, Sacriledge, Perjurie, Hypocriſie</hi> and <hi>Coveteouſneſſe,</hi> &amp;c. Then put into them ſome few drops ſliding from the Chryſtal foun<g ref="char:EOLhyphen"/>taine of and obedient and <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the cleere fire of <hi>fervent love;</hi> keepe them ſtirring and in perpetuall motion, till they become a Soveraigne Salve; then take it off, and coole it with the breath of a <hi>ſanctified Spirit;</hi> then treaſure it up carefully
+<pb facs="tcp:114100:2"/>in a veſſell made of the pure clay of <hi>Engliſh Honour;</hi> apply it every Morning to your queaſie ſtomacks, it undoubtedly cures you of the <hi>bloudy iſſue,</hi> the <hi>Kings Evill,</hi> the frenzie in your <hi>Heads,</hi> the aking of your <hi>hearts,</hi> and the Conſumptions of your (lately loſt) <hi>Liberties,</hi> and <hi>Eſtates;</hi> and make you as healthfull as ever you were in all your lives, and your Land once more happier then ever, by diſpelling all the <hi>Contagious vapours,</hi> and miſty fogges that have ſo infected you with a deep <hi>Lethargie,</hi> and robe you of the ſenſe of all your for<g ref="char:EOLhyphen"/>mer happineſſe: Apply this Antidote, it will coſt you little, conſi<g ref="char:EOLhyphen"/>dering the preciouſneſſe thereof.</p>
+               <lg>
+                  <l>This paſſeth our <hi>Elixar,</hi> or the <hi>Stone</hi>
+                  </l>
+                  <l>Sought for by many, but obtained by none:</l>
+                  <l>Th' obſtruction of the <hi>Liver,</hi> or the <hi>Spleene,</hi>
+                  </l>
+                  <l>This opens, mollifies, and purges cleane:</l>
+                  <l>A ſecret 'tis aſſur'd for <hi>madneſſe, folly,</hi>
+                  </l>
+                  <l>Wilde <hi>jealouſie,</hi> or cloudy <hi>Melancholly:</hi>
+                  </l>
+                  <l>It cures the <hi>Gout,</hi> it qualifies the <hi>Cauſe,</hi>
+                  </l>
+                  <l>Supplies the <hi>Commons Purſe</hi> like th' <hi>oyle</hi> o'th' <hi>Lawes:</hi>
+                  </l>
+                  <l>This dries up Humours, Humours that abound,</l>
+                  <l>And our weake bodies this makes ſafe and ſound.</l>
+                  <l>Buy then this <hi>Antidote</hi> at any Rate,</l>
+                  <l>It cures the ſad diſeaſe of your ſicke State.</l>
+               </lg>
+               <p>Next (deare Countrie-men) my man <hi>Jack Pudding</hi> ſhall ſhew you a new faſhioned <hi>Looking-glaſſe,</hi> which once belonged to one <hi>Janus,</hi> wherein you may ſee backward at your former happineſſe, and forward to your enſuing miſerie: I am faine to ſhew it you firſt in the darke, becauſe you may ſee how each <hi>Meteor,</hi> or <hi>Ignis fatuus</hi> ſeemes a <hi>Sunne;</hi> but in the day comming neare the Sunne, they can<g ref="char:EOLhyphen"/>not be ſeen: Next in one of the new Lights (called <hi>Reformation</hi>) wherein you may perceive that ſome aſpiring too high, have preſu<g ref="char:EOLhyphen"/>med too far. All perſons are not fit for all places: Fooles miſtake, and overdoe; wiſe men warme themſelves at the fire, where children burne their fingers. Our Age ſees many of theſe Babels, whoſe Ruines will ſeeme greater a far off then at hand: But to the matter:</p>
+               <p>Firſt (without the helpe of State-Spectacles) behold a King ſe<g ref="char:EOLhyphen"/>lected, whoſe Royall and Chriſtian Reputation, Envie it ſelf could not, nor dared to ſully, enthroned in the hearts of a numerous and Loyall People, thrice happy in his Royall Conſort, and <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:114100:3"/>pledges of their mutuall loves, and our ſucceeding peace in their aſſured Succeſſion; ſtor'd with crowded Magazines of Military pro<g ref="char:EOLhyphen"/>viſions; at Sea powerfull above his Anceſtors, by a formidable Na<g ref="char:EOLhyphen"/>vie; governing his people in peace and proſperity; a King altoge<g ref="char:EOLhyphen"/>ther worthy of ſuch a Kingdom.</p>
+               <p>Next caſt your eye upon a Church ſo full of Luſtre, Order, and Diſcipline, ſo garniſhed and enriched with Learning and Piety, ſo pure a forme, as any Story or obſervation can attribute to any ſince Chriſtianity became a profeſſion. Next looke upon a luſtrious No<g ref="char:EOLhyphen"/>bility, a flouriſhing Gentrie, plentifully ſharing dignities and truſts in the Military, and Civill Magiſtracy, an obedient, peacefull, and contented Commonalty. The few oppoſers or interrupters of the peace of both Governments, being ſo few, that they ſcarce juſtified the name of a number: our Cities envied by our neighbours for their Government, opulency in preſent enjoyments, and aſſured growth of an encreaſing Trade; a Land populous, plenteous, and at unity with it ſelfe, admitting of no meanes, or diminution, but Mi<g ref="char:EOLhyphen"/>racle or War to bring it to miſerie and confuſion, and the meanes how to beget ſuch a War, ſo ſoone to ruine all this happineſſe, being of no leſſe extent then a Miracle. Now how unhappy we are, look backward at ſo much bleſſing, and to ſay it was; let the Ingenious Reader judge.</p>
+               <p>But now let us looke forward to our own preſent <hi>Reformed con<g ref="char:EOLhyphen"/>dition</hi> of all this happineſſe; See a King rejected in his good name of King, and Chriſtian, blaſphemed: made poore by the loſſe of the poore deceived, and ſeduced hearts of an abuſed and ſeduced people; divorced from his Royall Conſort, (a crime curſed upon Record) kept from the ſight of his deare and Princely Iſſue; diſper<g ref="char:EOLhyphen"/>ſed like a ſcatter'd Couvie; His ſucceſſion become diſputable, and though a King, yet truckt for, bought and ſold, and now redu<g ref="char:EOLhyphen"/>ced to far leſſe power then the Maſter of a private Family; A new Modelled Court, having not ſo much as the footſteps left of its for<g ref="char:EOLhyphen"/>mer Beauty and Civility; A Church ſhuffled to indiſtinction; de<g ref="char:EOLhyphen"/>grees unadmitted; Sects, Schiſmes, and Blaſphemies, in this time, and Kingdome, vying with all thoſe of paſt Ages, and Forraigne Nations: Behold a Nobility clouded by the promilenous foggs ari<g ref="char:EOLhyphen"/>ſing from their inferiours, their Honours made Arbitrary, and no longer to continue then the Common Rout ſhall think convenient; A Gentry diſcountenanced by an introduced Party, awed by Te<g ref="char:EOLhyphen"/>nants, and Servants, impoveriſhed by long Sequeſtrations, and ſe<g ref="char:EOLhyphen"/>cond
+<pb facs="tcp:114100:3"/>purchaſes of their owne lawfull Inheritance; A giddy Com<g ref="char:EOLhyphen"/>munalty, tumultuous, deſiring ſomething, but as yet they know not what, nor bound to diſcover till they know themſelves: Their freedoms, liberty of perſon, property of Eſtates given away, and be<g ref="char:EOLhyphen"/>come meere Notions, and not vindicable, nor preſervable by Law; Cities diſpeopled, untraded, and impoveriſhed by reaſon of extorting Committees, and Exciſes, <hi>&amp;c.</hi> and as much confuſion of Government, as diverſity of opinions; All able proficients in Divi<g ref="char:EOLhyphen"/>nity and Law, upon the refuſall of a not underſtood (or too well underſtood) Covenant, outed their free holds, and Lawfull Rights, and in their places a ſupply of men would perſwade the world there were a deſigne to encreaſe and propagate Devotion by an Introduction of Ignorance, which appeares by Lawyers pleading, and Miniſters Preaching; Ordinances againſt the known Lawes of God and the Nation; A Land overwhelmed with inundations of Bloud, harraſſed and worne out by payes and quarterings, and almoſt growne wild for want of husbandry: And all this by a War raiſed by our ſelves for Reformations ſake, acted and proſecuted by and upon our ſelves, as if we had in <hi>Cymerian</hi> darkeneſſe loſt the Spirits of ſober Chriſtians, and grop't out the fury of inflamed <hi>Bac<g ref="char:EOLhyphen"/>chinalls,</hi> and could find no place to ſcoure our long ruſtied Swords, other then our owne naturall Bowels.</p>
+               <p>It is a heightned and Superiative affliction to a diſeaſed perſon, ſo only to be made to underſtand his defects, as to know them to be irrepairable.</p>
+               <p>To cloſe up all, I have annexed a Morall Table worthy the peru<g ref="char:EOLhyphen"/>ſall, Entitled <hi>Gryps.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <head>GRYPS.</head>
+               <lg>
+                  <l>THe Griffon well allied, and great in power,</l>
+                  <l>Made challenge to be generall Emperour</l>
+                  <l>Of beaſts, and birds; whoſe title to decide,</l>
+                  <l>A generall Councell was proclaimed wide</l>
+                  <l>Through all the world, and every bird and beaſt</l>
+                  <l>Together met, the greateſt, and the leaſt.</l>
+                  <l>'Mongſt theſe ſome crawling ſerpents, ſome with feet,</l>
+                  <l>And ſome with wings did at this Councell meet,</l>
+                  <l>And claim'd the place of peece, and did alleadge</l>
+                  <pb facs="tcp:114100:4"/>
+                  <l>Full many ancient Lawes of priviledge</l>
+                  <l>For their high honour; but the chiefe was this;</l>
+                  <l>They prov'd themſelves beaſts out of <hi>Geneſis.</hi>
+                  </l>
+                  <l>But when that Law was read, and it was found,</l>
+                  <l>Their treaſon brought a curſe upon the ground;</l>
+                  <l>That ever ſince their poiſon did annoy</l>
+                  <l>Both birds and beaſts, and oft did both deſtroy;</l>
+                  <l>Cloaking their fraud, guilding their villany</l>
+                  <l>With ancient univerſall unity;</l>
+                  <l>Betraying truth with darke ambiguous lies,</l>
+                  <l>And coſening man of bleſſed <hi>Paradiſe:</hi>
+                  </l>
+                  <l>Adulterating, purging of the ſence</l>
+                  <l>Of holy Writ under a good pretence:</l>
+                  <l>They had by generall voice, ſtrict baniſhment</l>
+                  <l>From comming near this Court of Parliament:</l>
+                  <l>And now the reſt proceed; but by the way</l>
+                  <l>Aroſe another cauſe of ſome delay:</l>
+                  <l>Comming to chooſe a Speaker, bold Jack-daw</l>
+                  <l>Would interpoſe his skill, and vouch a Law,</l>
+                  <l>(The Law of Paraſites) that each one might</l>
+                  <l>Speak what him liſt, 'gainſt reaſon, or 'gainſt right,</l>
+                  <l>And that no ſpeaker needed, ought to be,</l>
+                  <l>Where ſuch a mixture was; for if quoth he,</l>
+                  <l>We chooſe a bird, the beaſts will all diſſent</l>
+                  <l>If they a beaſt, we ſhall be diſcontent.</l>
+                  <l>This ſpeech, though true in part, did all off end,</l>
+                  <l>Becauſe they ſaw his buſie tongue did bend</l>
+                  <l>To croſſe all buſineſſe, and his wit deviſe</l>
+                  <l>To change the firmeſt knots to nullities.</l>
+                  <l>So they agreed together in this ſort,</l>
+                  <l>To cut his nimble tongue a little ſhort;</l>
+                  <l>For ſaucy tatling, where he ſhould not teach.</l>
+                  <l>And being ſilent where he ought to preach.</l>
+                  <l>But he avoids this ſentence with a quirke,</l>
+                  <l>Pleading of old he longed to the Kirke,</l>
+                  <l>Though ſeldome he came there; and each one tooke</l>
+                  <l>Him for no Clarke, untill he claim'd his booke.</l>
+                  <l>Then they perceiv'd his skill, and ſoone diſcerned</l>
+                  <l>How he to flatter and backbite was learned;</l>
+                  <l>Could mount a ſteeples top, and with the winde</l>
+                  <pb facs="tcp:114100:4"/>
+                  <l>Turne like the weather-cocke his ready minde,</l>
+                  <l>Serving the time: therefore they onward paſſe</l>
+                  <l>To chooſe a Speaker; ſome would have the Aſſe,</l>
+                  <l>Becauſe he could diminiſh nought nor adde,</l>
+                  <l>But truth deliver, were it good or bad:</l>
+                  <l>Yet moſt miſlik'd that choiſe, and thoſe pronounce</l>
+                  <l>The Parrot fit, and ſome the nimble Ounce;</l>
+                  <l>Some the ſweet Nighting all, and ſome the Dog,</l>
+                  <l>And ſome the Fox, the Baboone, ſome the Hog;</l>
+                  <l>Some Robin red-breſt, or the ſpeckled Thruſh;</l>
+                  <l>Some Chantecleere, and ſome the Woodcock fluſh;</l>
+                  <l>Some choſe the Ape, and ſome miſlike his voice,</l>
+                  <l>So ſundry factions riſe from this hard choice.</l>
+                  <l>At laſt the Elephant perſwades withall</l>
+                  <l>To take an equall courſe, and man to call</l>
+                  <l>As ſpeaker, Judge, and umpier in this thing,</l>
+                  <l>Being by nature the worlds generall King.</l>
+                  <l>And he moſt fit t' appoint and to depute</l>
+                  <l>His owne Imperiall bird-beaſt ſubſtitute.</l>
+                  <l>To this they all conſent, and to this end</l>
+                  <l>In humble wiſe to Man this meſſage ſend:</l>
+                  <l>That he their Patron, Governour, and Lord,</l>
+                  <l>Would daigne this mighty difference to accord</l>
+                  <l>With reaſon and authority. His conſent</l>
+                  <l>Is ſoone obtain'd: now gins the Parliament,</l>
+                  <l>In which the <hi>Griffon</hi> thus begins his plea:</l>
+                  <l>Grand Emperour of Aire, Earth, and Sea;</l>
+                  <l>I challenge by prerogative and birth,</l>
+                  <l>To be your Vicar generall on th' Earth,</l>
+                  <l>O're birds and beaſts: The beaſts I ought command,</l>
+                  <l>Becauſe upon foure feet like them I ſtand.</l>
+                  <l>The birds I ought to rule, cauſe I can flie</l>
+                  <l>With theſe my wings like them, and ſoare as hie:</l>
+                  <l>I doe ſurpaſſe the beaſts in having wings,</l>
+                  <l>The birds in leggs, in taile, and other things:</l>
+                  <l>My force doth match the Lyons, and my heart</l>
+                  <l>The Eagle, or excels them in each part.</l>
+                  <l>Your doome I therefore claime, that I may be</l>
+                  <l>Plac'd equall to my worth in ſoveraignty:</l>
+                  <l>And next your ſelfe the Emperour be of Earth,</l>
+                  <pb facs="tcp:114100:5"/>
+                  <l>According to the priviledge of my birth.</l>
+                  <l>Then ſpake the Elephant, and ſaid, that he</l>
+                  <l>Ought over beaſts the only Lord to be:</l>
+                  <l>His ſtrength was great, &amp; more then others far,</l>
+                  <l>His Honours more purchas'd in manly war:</l>
+                  <l>His learning more, the letters underſtanding,</l>
+                  <l>And aptly doing all, wiſe man commanding.</l>
+                  <l>'Gainſt him up roſe the <hi>Syre</hi> of <hi>Bankes</hi> his horſe,</l>
+                  <l>And challeng'd him to trie wit, worth, &amp; force.</l>
+                  <l>This grew to heate, but then the mighty Rucke</l>
+                  <l>Soone parts the fray, each did from other plucke;</l>
+                  <l>Deſires ſhe might be heard, her challenge was</l>
+                  <l>To rule all birds, ſince ſhe all birds did paſſe.</l>
+                  <l>The Wren ſtraight hopt about, &amp; ſaid, his name</l>
+                  <l>Did ſhew from what a royall ſtocke he came.</l>
+                  <l>And every bird and beaſt, the great and ſmall,</l>
+                  <l>Had his ambitious ayme to governe all.</l>
+                  <l>Which having made, in ſilence all ſate downe,</l>
+                  <l>Being over-awed with mans Emperiall frowne.</l>
+                  <l>Each fear'd, each hop'd, until at length the Man</l>
+                  <l>Roſe up, and to determine thus began:</l>
+                  <l>I was your Maſter made, you made for me,</l>
+                  <l>And whatſoever in the Globe there be,</l>
+                  <l>Hid or revealed, 'tis mine. And I alone</l>
+                  <l>Sole Emperor am, under that only <hi>One.</hi>
+                  </l>
+                  <l>Nor doubt you this; the queſtion now in hand</l>
+                  <l>Is for the under Kingſhip of my land;</l>
+                  <l>For 'tis not fit that I ſhould troubled be</l>
+                  <l>With every toy, when ſubjects diſagree:</l>
+                  <l>But that my Preſident ſhould ſtill be nigh,</l>
+                  <l>Your doubts and jarres t'appeaſe and rectifie.</l>
+                  <l>It only reſts to ſhew what parts are fit</l>
+                  <l>For government: That's courage, ſtrength &amp; wit:</l>
+                  <l>Mercy and juſtice, and the guard to thoſe,</l>
+                  <l>Awe to command, dexterity to diſpoſe.</l>
+                  <l>If any part of theſe be ſeparate,</l>
+                  <l>The rule is moſt imperfect, and the State</l>
+                  <l>Fals to contempt, the lawes are trodden downe,</l>
+                  <l>The ſcepter broken, and deſpis'd the Crowne.</l>
+                  <l>This ſhewes how many here have vainly ſought</l>
+                  <l>For one good part, the wreath that many ought.</l>
+                  <pb facs="tcp:114100:5"/>
+                  <l>That nor the Ruck, the Elephant nor Horſe,</l>
+                  <l>Are fit to governe for their matchleſſe force:</l>
+                  <l>Nor for their wit alone; for then the Oxe</l>
+                  <l>Might make his claime too, and the ſubtile Foxe</l>
+                  <l>Much leſſe the ſilly Wren for honor'd houſe,</l>
+                  <l>Nor the cat-fearing, Elephant-frighting-Mouſe</l>
+                  <l>For theſe would breed contempt, &amp; Athens owle</l>
+                  <l>Might challenge ſo night rule of every ſowle.</l>
+                  <l>Nor is it meet this Griffon ſhould obtaine,</l>
+                  <l>What by pretence of right he ſeekes to gaine,</l>
+                  <l>Becauſe his title halts on either ſide,</l>
+                  <l>Except in halves, he will himſelfe divide.</l>
+                  <l>He is no beaſt: his tallents, wings, and head</l>
+                  <l>Conclude againſt his challenge in my ſtead.</l>
+                  <l>Nor yet a bird: his body, leg's, and tayle</l>
+                  <l>With evidence his arguments doe quaile.</l>
+                  <l>But if where proofe lyes hid, we may proceed</l>
+                  <l>By probabilities; from ſpurious ſeed</l>
+                  <l>He took his being, and would neither love,</l>
+                  <l>Being like to neither, but a Tyrant prove.</l>
+                  <l>And where he boaſts his wondrous ſtrength and hart</l>
+                  <l>It's falſe he doth pretend, becauſe that part</l>
+                  <l>Which ſhewes him Lyon-like in ſhape, hide, hair,</l>
+                  <l>Doth of the Kingly-Lyon ſtand in feare.</l>
+                  <l>And that birds part which he from th' Eagle took,</l>
+                  <l>On the sky-towring Eagle dares not look.</l>
+                  <l>The Lyon therefore I ordaine and make</l>
+                  <l>The King of beaſts; his awfull voice ſhall ſhalt</l>
+                  <l>The proudeſt ſpirit. And the Eagle ſhall</l>
+                  <l>Be King of Birds, and overlooke them all.</l>
+                  <l>This ſentence paſt, the Parliament aroſe,</l>
+                  <l>And with theſe rules of truth the Seſſions cloſe.</l>
+               </lg>
+               <lg>
+                  <head>Epimythium.</head>
+                  <l>Who ſeeks two ſwords to ſway, hath right to none,</l>
+                  <l>Who ſeeks two offices is not fit for one:</l>
+                  <l>Who ſeeks two callings, takes too much in hand:</l>
+                  <l>Who hath two faiths, doth true to neither ſtand.</l>
+                  <l>One ſword, one office, Calling, and one faith</l>
+                  <l>Is fit for one Man; ſo this ſtory ſaith.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
